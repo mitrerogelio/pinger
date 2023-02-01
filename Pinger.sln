@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinger", "Pinger\Pinger.csproj", "{14AA6AF2-4404-482B-9739-FEE7D0077465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14AA6AF2-4404-482B-9739-FEE7D0077465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AA6AF2-4404-482B-9739-FEE7D0077465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AA6AF2-4404-482B-9739-FEE7D0077465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AA6AF2-4404-482B-9739-FEE7D0077465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA31C36-8869-4F28-A3A8-50BE92808054}
+	EndGlobalSection
+EndGlobal

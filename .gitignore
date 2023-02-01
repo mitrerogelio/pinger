@@ -1,0 +1,10 @@
+Pinger/bin
+Pinger/obj
+.vs/
+*.user
+*.suo
+*.log
+*.dll
+*.exe
+*.pdb
+.DS_Store
